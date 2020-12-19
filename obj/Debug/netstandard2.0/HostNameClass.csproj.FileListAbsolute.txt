@@ -1,0 +1,8 @@
+C:\ASPNET\CheckHost\GetServerName\HostNameClass\bin\Debug\netstandard2.0\HostNameClass.deps.json
+C:\ASPNET\CheckHost\GetServerName\HostNameClass\bin\Debug\netstandard2.0\HostNameClass.dll
+C:\ASPNET\CheckHost\GetServerName\HostNameClass\bin\Debug\netstandard2.0\HostNameClass.pdb
+C:\ASPNET\CheckHost\GetServerName\HostNameClass\obj\Debug\netstandard2.0\HostNameClass.AssemblyInfoInputs.cache
+C:\ASPNET\CheckHost\GetServerName\HostNameClass\obj\Debug\netstandard2.0\HostNameClass.AssemblyInfo.cs
+C:\ASPNET\CheckHost\GetServerName\HostNameClass\obj\Debug\netstandard2.0\HostNameClass.csproj.CoreCompileInputs.cache
+C:\ASPNET\CheckHost\GetServerName\HostNameClass\obj\Debug\netstandard2.0\HostNameClass.dll
+C:\ASPNET\CheckHost\GetServerName\HostNameClass\obj\Debug\netstandard2.0\HostNameClass.pdb
